@@ -10,3 +10,9 @@ pathspec==0.12.1
 platformdirs==4.3.6
 pylint==3.3.1
 tomlkit==0.13.2
+matplotlib==3.9.2
+xgboost==2.1.1
+scikit-learn==1.5.2
+TPOT==0.12.2
+seaborn==0.13.2
+scipy==1.14.1
