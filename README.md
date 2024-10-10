@@ -1,3 +1,14 @@
+```
+  /$$$$$$  /$$   /$$ /$$$$$$$   /$$$$$$ 
+ /$$__  $$| $$  | $$| $$__  $$ /$$__  $$
+| $$  \__/| $$  | $$| $$  \ $$| $$  \ $$
+|  $$$$$$ | $$  | $$| $$  | $$| $$  | $$
+ \____  $$| $$  | $$| $$  | $$| $$  | $$
+ /$$  \ $$| $$  | $$| $$  | $$| $$  | $$
+|  $$$$$$/|  $$$$$$/| $$$$$$$/|  $$$$$$/
+ \______/  \______/ |_______/  \______/ 
+```
+
 # data-exploration
 
 This repository is meant to document, explain and store all research linked to the automation of ML pipelines and LLM experiments for various tasks and type of data.
